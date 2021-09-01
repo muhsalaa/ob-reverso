@@ -1,0 +1,24 @@
+{
+  "name": "ob-reverso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhsalaa/ob-reverso.git"
+  },
+  "keywords": [
+    "object",
+    "reverse",
+    "two-sides"
+  ],
+  "author": "muhsalaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhsalaa/ob-reverso/issues"
+  },
+  "homepage": "https://github.com/muhsalaa/ob-reverso#readme"
+}
